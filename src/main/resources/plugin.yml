@@ -1,0 +1,25 @@
+name: Beta
+version: ${project.version}
+main: me.rimon.Balls
+api-version: 1.19
+description: Test plugin
+commands:
+  bhelp:
+    description: help command
+    aliases: bh
+  bfly:
+    description: fly command
+  bsit:
+    description: sit command
+  bgive:
+    descpription: gives any item
+  brtp:
+    description: teleports you randomly
+  btp:
+    description: Teleports players
+  TestGive:
+    description: Gives you shit
+  MyInfo:
+    description: gives me my info
+  altcheck:
+    description: checks for alts
